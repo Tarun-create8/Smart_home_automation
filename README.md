@@ -35,6 +35,4 @@ It allows users to control a **12V DC fan** and an **LED** remotely via the **Bl
 - Integrated ESP32 with L298N driver.  
 - Performed testing and troubleshooting for stable operation.  
 
----
-
-## 📂 Repository Structure  
+--- 
