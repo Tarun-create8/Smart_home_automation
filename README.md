@@ -5,7 +5,7 @@ Both projects combine **hardware + software + IoT** concepts, focusing on real-w
 
 ---
 
-## 🏠 Project 1: Smart Ecosystem  
+## Smart Ecosystem  
 
 ### 📌 Overview  
 The **Smart Ecosystem** is an IoT-based home automation project designed to control appliances wirelessly using the **ESP32 microcontroller** and the **Blynk mobile app**.  
